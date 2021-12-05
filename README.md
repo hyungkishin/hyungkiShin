@@ -11,4 +11,10 @@ Techs that I've used at least once </br>
 <img src="https://camo.githubusercontent.com/1f38af5ca8299d9d7bc2df4b6f22a69533a0938bc9049023efa97c58c7218494/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537072696e67426f6f742d3644423333463f7374796c653d666c61742d737175617265266c6f676f3d537072696e67266c6f676f436f6c6f723d7768697465"/>
 <img src="https://camo.githubusercontent.com/96267d8a69067065ffe11ac12baa0d9206641de7eb74225b62fa93f78631775a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7973716c2d4536423931453f7374796c653d666c61742d737175617265266c6f676f3d4d7953716c266c6f676f436f6c6f723d7768697465"/>
 <img src="https://camo.githubusercontent.com/8aa7fdcd3402ea395c3fdbd8c00fe0f6b7be091fcf985556a2b2097847616bc8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6177732d3333333636343f7374796c653d666c61742d737175617265266c6f676f3d616d617a6f6e2d617773266c6f676f436f6c6f723d7768697465"/>
-             
+![Spring](https://img.shields.io/badge/Spring-00FF7F)
+![Vuejs](https://img.shields.io/badge/Vuejs-4fc08d)
+![Nestjs](https://img.shields.io/badge/Nestjs-ea2845)
+![React](https://img.shields.io/badge/React-5F00FF)
+![javascript](https://img.shields.io/badge/Javascript-FFE400)
+![typescript](https://img.shields.io/badge/Typescript-0054FF)
+![Nodejs](https://img.shields.io/badge/Nodejs-43853d)

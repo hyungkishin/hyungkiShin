@@ -37,5 +37,6 @@ Techs that I've used at least once </br>
   </a>
 </p><br/>
 
-my 잔디 ... ㅠㅠ 내년엔 더 열씸히 할께
-https://github-readme-stats.vercel.app/api?username=hyungkiSHin&show_icons=true
+잔디's
+[![hyungkiShin github stats](https://github-readme-stats.vercel.app/api?username=hyungkiSHin&show_icons=true)](https://github.com/hyungkiShin)
+

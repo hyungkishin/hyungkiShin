@@ -36,3 +36,6 @@ Techs that I've used at least once </br>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" alt="nextjs" width="30" height="30"/> 
   </a>
 </p><br/>
+
+my 잔디 ... ㅠㅠ 내년엔 더 열씸히 할께
+(https://github-readme-stats.vercel.app/api?username=ggombee)](https://github.com/hyungkiShin)

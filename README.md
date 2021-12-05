@@ -30,9 +30,6 @@ Techs that I've used at least once </br>
   <a href="https://nextjs.org/" target="_blank"> 
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="30" height="30"/> 
   </a>
-    <a href="https://docs.nestjs.kr/" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" alt="nextjs" width="30" height="30"/> 
-  </a> 
   <a href="https://docs.nestjs.kr/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" alt="nextjs" width="30" height="30"/> 
   </a> 

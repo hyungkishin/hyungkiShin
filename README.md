@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @hyungkiShin
-- 😘 I'm Front Developer
+- 😘 I'm junior Web Developer
+- 😎 I have a lot to do, but I am a happy developer
 
 
 🛠 Tech Stack 🛠

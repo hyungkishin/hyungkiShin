@@ -42,3 +42,5 @@ Techs that I've used at least once </br>
 ### 잔디's
 [![hyungkiShin github stats](https://github-readme-stats.vercel.app/api?username=hyungkiSHin&show_icons=true)](https://github.com/hyungkiShin)
 
+<img alt="Snake Gif" src="https://github.com/jinyongp/jinyongp/blob/output/github-contribution-grid-snake.svg" />
+<a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=_hexcode&height=100&section=footer" /></a>

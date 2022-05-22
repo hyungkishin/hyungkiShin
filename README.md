@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hyungkiShin
-- 😘 I'm junior Web Developer
+- 😘 I'm full stack Web Developer
 - 😎 I have a lot to do, but I am a happy developer
 
 

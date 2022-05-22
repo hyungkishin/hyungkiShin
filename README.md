@@ -6,6 +6,7 @@
 🛠 Tech Stack 🛠
 Techs that I've used at least once </br>
 ---
+[![hyungkiShin github stats](https://github-readme-stats.vercel.app/api?username=hyungkiSHin&show_icons=true)](https://github.com/hyungkiShin)
 <p align="left">  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> 
@@ -37,10 +38,6 @@ Techs that I've used at least once </br>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" alt="nextjs" width="30" height="30"/> 
   </a>
 </p><br/>
-
----
-### 잔디's
-[![hyungkiShin github stats](https://github-readme-stats.vercel.app/api?username=hyungkiSHin&show_icons=true)](https://github.com/hyungkiShin)
 
 <img alt="Snake Gif" src="https://github.com/jinyongp/jinyongp/blob/output/github-contribution-grid-snake.svg" />
 <a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=_hexcode&height=100&section=footer" /></a>

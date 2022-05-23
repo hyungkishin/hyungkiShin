@@ -39,5 +39,5 @@ Techs that I've used at least once </br>
   </a>
 </p><br/>
 
-
+<img alt="Snake Gif" src="https://github.com/hyungkiShin/hyungkiShin/blob/main/Snake_Gif.svg" />
 <a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=_hexcode&height=100&section=footer" /></a>

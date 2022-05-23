@@ -38,6 +38,7 @@ Techs that I've used at least once </br>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" alt="nextjs" width="30" height="30"/> 
   </a>
 </p><br/>
-
-<img alt="Snake Gif" src="https://github.com/hyungkiShin/hyungkiShin/blob/main/Snake_Gif.svg" />
-<a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=_hexcode&height=100&section=footer" /></a>
+<div>
+  <img alt="Snake Gif" src="https://github.com/hyungkiShin/hyungkiShin/blob/main/Snake_Gif.svg" />
+  <a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=_hexcode&height=100&section=footer" /></a>
+</div>

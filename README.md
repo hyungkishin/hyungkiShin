@@ -3,14 +3,9 @@
 - 😎 밝고 쾌활한 성격을 보유하고 있으며, mbti 는 enfp !
 - 👍 원활한 기술공유와, 지속적인 성장을 목표로 삼고 있습니다.
 
-🛠 Tech Stack 🛠
-Techs that I've used at least once </br>
 ---
 
-[![hyungkiShin github stats](https://github-readme-stats.vercel.app/api?username=hyungkiSHin&theme=solarized-dark&show_icons=true)](https://github.com/hyungkiShin)
-<br/>
-
-<div align=center><h1>📚 STACKS</h1></div>
+<div align=center><h1>🛠 Tech Stack 🛠</h1></div>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -49,7 +44,9 @@ Techs that I've used at least once </br>
   <br>
 </div>
 
-<div>
+[![hyungkiShin github stats](https://github-readme-stats.vercel.app/api?username=hyungkiSHin&theme=solarized-dark&show_icons=true)](https://github.com/hyungkiShin)
+
+<div align=center>
   <img alt="Snake Gif" src="https://github.com/hyungkiShin/hyungkiShin/blob/main/Snake_Gif.svg" />
   <a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=_hexcode&height=100&section=footer" /></a>
 </div>

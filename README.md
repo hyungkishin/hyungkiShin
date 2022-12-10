@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @hyungkiShin
-- 😘 I'm full stack Web Developer
-- 😎 I have a lot to do, but I am a happy developer
+- 👋 안녕하세요 4년차 개발자 신형기 입니다.
+- 😘 Back-end 와 Front-end 개발을 하고 있습니다.
+- 😎 끊임없이 공부해야 하는 분야인 만큼, 마음이 이끄는 방향으로 성장하고 있습니다 (망캐는 아닙니다...)
+- 👍 주력 분야는 Back-end 이고 Front-end 는 사랑합니다.
 
 
 🛠 Tech Stack 🛠

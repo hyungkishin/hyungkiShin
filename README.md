@@ -46,9 +46,6 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
   <br>
-</div>
-
-<div align=center>
+  
   <img alt="Snake Gif" src="https://github.com/hyungkiShin/hyungkiShin/blob/main/Snake_Gif.svg" />
-  <a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=_hexcode&height=100&section=footer" /></a>
 </div>

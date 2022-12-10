@@ -7,7 +7,7 @@
 🛠 Tech Stack 🛠
 Techs that I've used at least once </br>
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=shades-of-purple&show_icons=true)
+![hyungkiShin GitHub stats](https://github-readme-stats.vercel.app/api?username=hyungkiSHin&theme=shades-of-purple&show_icons=true)
 [![hyungkiShin github stats](https://github-readme-stats.vercel.app/api?username=hyungkiSHin&show_icons=true)](https://github.com/hyungkiShin)
 <p align="left">  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 

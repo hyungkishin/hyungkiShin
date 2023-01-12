@@ -1,6 +1,5 @@
-- 👋 안녕하세요 4년차 개발자 신형기 입니다.
-- 😘 Back-end 와 Front-end 개발을 하고 있습니다.
-- 😎 밝고 쾌활한 성격을 보유하고 있으며, mbti 는 enfp !
+- 👋 Hello ~!
+- 😎 재기 발랄한 성격을 보유하고 있으며, mbti 는 enfp !
 - 👍 원활한 기술공유와, 지속적인 성장을 목표로 삼고 있습니다.
 
 [![hyungkiShin github stats](https://github-readme-stats.vercel.app/api?username=hyungkiSHin&theme=solarized-dark&show_icons=true)](https://github.com/hyungkiShin)

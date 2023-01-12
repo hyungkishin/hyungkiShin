@@ -2,8 +2,6 @@
 - 😎 재기 발랄한 성격을 보유하고 있으며, mbti 는 enfp !
 - 👍 원활한 기술공유와, 지속적인 성장을 목표로 삼고 있습니다.
 
-[![hyungkiShin github stats](https://github-readme-stats.vercel.app/api?username=hyungkiSHin&theme=solarized-dark&show_icons=true)](https://github.com/hyungkiShin)
-
 <div align=center><h1>🛠 Tech Stack 🛠</h1></div>
 
 <div align=center> 

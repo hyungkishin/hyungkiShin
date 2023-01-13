@@ -1,8 +1,7 @@
 - 👋 Hello ~!
-- 😎 재기 발랄한 성격을 보유하고 있으며, mbti 는 enfp !
 - 👍 원활한 기술공유와, 지속적인 성장을 목표로 삼고 있습니다.
 
-<div align=center><h1>🛠 Tech Stack 🛠</h1></div>
+<div align=center><h1>Tech Stack</h1></div>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 

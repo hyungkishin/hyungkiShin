@@ -1,5 +1,6 @@
 - 👋 Hello ~!
 - 👍 원활한 기술공유와, 지속적인 성장을 목표로 삼고 있습니다.
+- 😺 화이팅
 
 <div align=center><h1>Tech Stack</h1></div>
 

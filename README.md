@@ -11,6 +11,7 @@ Hey 👋, I'm HyungkiShin!
 </div>
 
 <br />
+
 ## About me
 
 Hi there! I work for a travel agency with the goal of continuous growth.

@@ -11,8 +11,9 @@ Hey 👋, I'm HyungkiShin!
 
 ## About me
 
-Hi there! I work for a travel agency with the goal of continuous growth.
-I am working in backend and frontend positions. I am a young man who likes to listen to music and loves Netflix.
+hello! I work for a travel agency with the goal of continuous growth.
+I work in backend and frontend positions.
+My hobby is listening to music and I am a young man who loves Netflix.
 <br />
 
 **Languages and Tools:**  

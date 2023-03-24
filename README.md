@@ -16,6 +16,7 @@ I work in backend and frontend positions.
 My hobby is listening to music and I am a young man who loves Netflix.
 <br />
 
+<img width="246" alt="image" src="https://user-images.githubusercontent.com/55230332/227438938-3d76ea73-c474-4c74-a81a-0d4a4aee396b.png">
 **Languages and Tools:**  
 
 <div align=center> 
@@ -28,3 +29,4 @@ My hobby is listening to music and I am a young man who loves Netflix.
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> 
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">  
 </div>
+

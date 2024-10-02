@@ -9,15 +9,11 @@ Hey 👋, I'm HyungkiShin!
 
 <br />
 
-## About me
-
-Hello! I work for a travel agency with the goal of continuous growth. <br/>
-I work in both backend and frontend positions, and I am a Full Stack developer who enjoys problem-solving and loves programming. <br/>
-My main focus is on the server side. <br/>
-My hobby is listening to music, and I am a young man who loves Netflix. <br/>
-
 <img width="246" alt="image" src="https://user-images.githubusercontent.com/55230332/227438938-3d76ea73-c474-4c74-a81a-0d4a4aee396b.png">
-** Languages and Tools **  
+
+---
+
+## Languages and Tools
 
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
